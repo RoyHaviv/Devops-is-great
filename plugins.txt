@@ -1,0 +1,22 @@
+configuration-as-code:latest
+authorize-project:latest
+credentials-binding:latest
+github-branch-source:latest
+git:latest
+pipeline-github-lib:latest
+pipeline-stage-view:latest
+workflow-aggregator:latest
+matrix-auth:latest
+
+# ant:latest
+# antisamy-markup-formatter:latest
+# build-timeout:latest
+# cloudbees-folder:latest
+# email-ext:latest
+# gradle:latest
+# ldap:latest
+# mailer:latest
+# pam-auth:latest
+# ssh-slaves:latest
+# timestamper:latest
+# ws-cleanup:latest

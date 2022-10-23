@@ -1,1 +1,2 @@
-# Devops-is-great
+to start jenkins run:
+`docker compose up`
