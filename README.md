@@ -1,2 +1,3 @@
-***to start jenkins run:***
+#to start jenkins run:
+
 `docker compose up`
