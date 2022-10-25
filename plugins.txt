@@ -7,6 +7,8 @@ pipeline-github-lib:latest
 pipeline-stage-view:latest
 workflow-aggregator:latest
 matrix-auth:latest
+docker-workflow:latest
+docker-plugin:latest
 
 # ant:latest
 # antisamy-markup-formatter:latest
