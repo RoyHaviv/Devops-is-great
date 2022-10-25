@@ -13,5 +13,5 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
       - /usr/local/bin/docker:/usr/local/bin/docker
     environment:
-      - JENKINS_ADMIN_ID=jenkins-user
-      - JENKINS_ADMIN_PASSWORD=Korin1020
+      - JENKINS_ADMIN_ID=admin
+      - JENKINS_ADMIN_PASSWORD=1
